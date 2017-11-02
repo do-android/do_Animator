@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Animator/libs/docore.jar
+/doExt_do_Animator/do_build.xml
+/doExt_do_Animator/do_Animator.zip
